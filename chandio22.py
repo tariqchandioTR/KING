@@ -195,7 +195,7 @@ logo2 = """
 
 CorrectUsername = "TARIQ"
 
-CorrectPassword = "AZIZ"
+CorrectPassword = "03458893258"
 
 loop = 'true'
 
