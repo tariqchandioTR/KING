@@ -1,4 +1,4 @@
-# KING/usr/bin/python2
+#KING/usr/bin/python2
 
 #coding=utf-8
 
