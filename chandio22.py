@@ -1,4 +1,4 @@
-#KING/usr/bin/python2
+#KING/usr/bin/python2/chandio22.py
 
 #coding=utf-8
 
